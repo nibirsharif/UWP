@@ -1,0 +1,1 @@
+c:\users\nibir\documents\visual studio 2015\Projects\TilesTost\TilesTost\TilesTost.csproj;x86
